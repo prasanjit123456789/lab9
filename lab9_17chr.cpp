@@ -28,6 +28,6 @@ int main(){
 	char s1[]="Hello";
 	char *tr=s1;
 	//call by chr function that acts as strchr function
-	chr(s1,'l')<<endl;	
+	chr(s1,'l');	
 	return 0;
 }
